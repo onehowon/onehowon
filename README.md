@@ -4,6 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ONEHOWON%20&fontSize=75)
 
  ### Hi there 👋
+ ## Interest
+ * Chillin
  
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/onehowon/Java)
 [![JS](https://img.shields.io/badge/RStudio-F7DF1E?style=flat-square&logo=R&logoColor=blue)](https://github.com/onehowon/Data-Analytics)
