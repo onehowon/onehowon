@@ -7,6 +7,10 @@
  
 <div align=left>
 
+## Major 
+* AI
+* Data Analytics
+
 ## Interest
 * Platform Business
 * Data Science
