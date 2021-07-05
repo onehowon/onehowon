@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ONEHOWON%20&fontSize=75)
 
-<div align=center>
 ### Hi there 👋
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/onehowon/Java)
