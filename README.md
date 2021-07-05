@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/IOS-F7DF1E?style=flat-square&logo=IOS&logoColor=white)](https://github.com/onehowon/Python)
 [![JS](https://img.shields.io/badge/Swift-F7DF1E?style=flat-square&logo=Swift&logoColor=orange)](https://github.com/onehowon/Python)
 
-[![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_ho_won/?hl=ko)](https://www.instagram.com/one_ho_won/?hl=ko)
+[![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_ho_won/?hl=ko)](https://www.instagram.com/one_ho_won/?hl=ko)
