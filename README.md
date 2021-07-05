@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonehowon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <!--
 **onehowon/onehowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ONEHOWON%20&fontSize=75)
+
+<div align=center>
+### Hi there 👋
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/onehowon/Java)
 [![JS](https://img.shields.io/badge/RStudio-F7DF1E?style=flat-square&logo=R&logoColor=blue)](https://github.com/onehowon/Data-Analytics)
