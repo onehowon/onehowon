@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ONEHOWON%20&fontSize=75)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=R&logoColor=blue)](github.com/Joowon0220/TODO-List)
+[![JS](https://img.shields.io/badge/RStudio-F7DF1E?style=flat-square&logo=R&logoColor=blue)](github.com/Joowon0220/TODO-List)
