@@ -5,9 +5,8 @@
 
  ### Hi there 👋
  
- <div align=left>
- ## Interest
- * Chillin
+<div align=left>
+## Interest
  
 <div align=center>
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/onehowon/Java)
