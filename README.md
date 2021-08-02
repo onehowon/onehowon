@@ -8,8 +8,8 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/onehowon/Java)
 [![JS](https://img.shields.io/badge/RStudio-F7DF1E?style=flat-square&logo=R&logoColor=blue)](https://github.com/onehowon/Data-Analytics)
 [![JS](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=red)](https://github.com/onehowon/Python)
-[![JS](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=C&logoColor=green)](https://github.com/onehowon/Python)
-[![JS](https://img.shields.io/badge/SQL-F7DF1E?style=flat-square&logo=MySQL&logoColor=black)](https://github.com/onehowon/Python)
+[![JS](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=C&logoColor=green)](https://github.com/onehowon/C)
+[![JS](https://img.shields.io/badge/SQL-F7DF1E?style=flat-square&logo=MySQL&logoColor=black)](https://github.com/onehowon/SQL)
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_ho_won/?hl=ko)](https://www.instagram.com/one_ho_won/?hl=ko)
  
