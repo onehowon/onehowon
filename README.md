@@ -21,11 +21,11 @@
 
 ## Major 
 * Data Analytics
-* AI
+* Blockchain
 
 ## Interest
-* Platform Business
-* Data Science
-* Development
+* DApp
+* Data Mining
+* NFT
 
 
