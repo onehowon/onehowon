@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇵KR ENG CHI</p>
-
 <div align=center>
  
 ## 🛠 T e c h S t a c k s 🛠
@@ -20,22 +18,21 @@
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&style=flat&logoColor=white)]
 
+## 📚
+
+<p align="center"> 🇰🇷 🇨🇳 🇺🇸 </p>
+
 ## 💫 m e
  
 [![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_ho_won/?hl=ko)](https://www.instagram.com/one_ho_won/?hl=ko)
  
- 
-### Hi there 👋
- 
 <div align=left>
 
-## Major 
-* Data Analytics
-* Blockchain
+## Elementary Web Developer
 
 ## Interest
 * DApp
-* Data Mining
+* Mining
 * NFT
 
 
