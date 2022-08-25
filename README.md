@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
 
-<p align="center">KR ENG CHI</p>
+<p align="center">🇰🇷KR ENG CHI</p>
 
 <div align=center>
  
