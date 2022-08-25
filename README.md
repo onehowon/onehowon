@@ -1,6 +1,6 @@
 <div align=center>
  
-[![JS](https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](https://github.com/onehowon/Java)
+[![JS](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](https://github.com/onehowon/Java)
 [![JS](https://img.shields.io/badge/RStudio-F7DF1E?style=flat-square&logo=R&logoColor=blue)](https://github.com/onehowon/Data-Analytics)
 [![JS](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=red)](https://github.com/onehowon/Python)
 [![JS](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=C&logoColor=green)](https://github.com/onehowon/C-studying-.git)
