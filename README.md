@@ -1,6 +1,16 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
+  
+<div align=left>
+
+## Elementary Web Developer
+* Hi there 👋
+ 
+## Interest
+* DApp
+* Mining
+* NFT
 
 <div align=center>
  
@@ -25,14 +35,5 @@
 ## 💫 m e
  
 [![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_ho_won/?hl=ko)](https://www.instagram.com/one_ho_won/?hl=ko)
- 
-<div align=left>
-
-## Elementary Web Developer
-
-## Interest
-* DApp
-* Mining
-* NFT
 
 
