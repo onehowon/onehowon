@@ -1,6 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
+
+<p align="center">KR ENG CHI</p>
+
 <div align=center>
  
-## 🌹 T e c h S t a c k s 🌹
+## 🛠 T e c h S t a c k s 🛠
  
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)]
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
