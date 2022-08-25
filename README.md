@@ -6,6 +6,7 @@
 
 ## Elementary Web Developer
 * Hi there 👋
+* Student
  
 ## Interest
 * DApp
@@ -16,29 +17,12 @@
  
 ## 🛠 T e c h S t a c k s 🛠
   
-<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
- 
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)]
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)]
-<br>
- 
-[![R](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=R&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)]
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&style=flat&logoColor=white)]
-<br>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/> <br/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="Solidity" src ="https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=Solidity&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-75AADB.svg?&style=for-the-badge&logo=R&logoColor=white"/> <br/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&style=flat&logoColor=white)]
-
-## 📚
+## Languages 📚
 
 <p align="center"> 🇰🇷 🇨🇳 🇺🇸 </p>
 
 ## 💫 m e
  
 [![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one_ho_won/?hl=ko)](https://www.instagram.com/one_ho_won/?hl=ko)
-
-
