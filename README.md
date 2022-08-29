@@ -7,7 +7,7 @@
   
 <div align=left>
 
-## Elementary Web Developer
+## Elementary Web/BlockChain Developer
 * Hi there 👋
 * Junior
  
