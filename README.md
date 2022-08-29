@@ -9,7 +9,7 @@
 
 ## Elementary Web Developer
 * Hi there 👋
-* Student
+* Junior
  
 ## Interest
 * DApp
