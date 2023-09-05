@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-<br>
+#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onehowon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onehowon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
