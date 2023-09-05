@@ -32,8 +32,7 @@
 
 <br>
 <div align=center>
-[![onehowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=onehowon)](https://github.com/onehowon/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onehowon&layout=compact&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onehowon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
