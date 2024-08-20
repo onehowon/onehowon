@@ -11,9 +11,8 @@
 * Hi there 👋
  
 ## Interest
-* DApp
-* Mining
-* NFT
+* Baseball
+* Trading
 
 <div align=center>
  
