@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/oracle%20cloud-F80000?style=for-the
+<img src="https://img.shields.io/badge/oracle%20cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+
 
 #
 
