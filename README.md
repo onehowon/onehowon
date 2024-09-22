@@ -41,20 +41,21 @@
 # Experience
 
 ### Ground Operations Command(GOC) Cyber Defense Office  
-**Position**: IT Security Manager 
-**Location**: Gyeonggi, South Korea  
-**Duration**: March 2022 - August 2023
+Position: IT Security Manager  
+Location: Gyeonggi, South Korea  
+Duration: March 2022 - August 2023
 
-#### Key Responsibilities:
+Key Responsibilities:
 - Prevented and defended against unauthorized cyber attacks, managed servers, and implemented IDS and IPS systems
 - Managed firewalls, threat detection, network segmentation, and security information and event management (SIEM)
 
 ### ESTSoft Backend BootCamp  
-**Duration**: August 2023 - December 2023
+Duration: August 2023 - December 2023
 
 # Paper
-#### Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)
-**Duration**: June 2024 - Febeurary 2025
+Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
+Duration: June 2024 - February 2025
+
 
 ## Languages 📚
 
