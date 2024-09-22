@@ -41,11 +41,23 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onehowon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onehowon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+# Experience
 
+## Ground Operations Command(GOC) Cyber Defense Office  
+**Position**: IT Security Manager 
+**Location**: Gyeonggi, South Korea  
+**Duration**: March 2022 - August 2023
+
+### Key Responsibilities:
+- Prevented and defended against unauthorized cyber attacks, managed servers, and implemented IDS and IPS systems
+- Managed firewalls, threat detection, network segmentation, and security information and event management (SIEM)
+
+## ESTSoft Backend BootCamp  
+**Duration**: August 2023 - December 2023
 
 ## Languages 📚
 
-<p align="center"> 🇰🇷 🇨🇳 🇺🇸 </p>
+<p align="center"> 🇰🇷 🇨🇳 🇺🇸 🇯🇵 </p>
 
 ## 💫 m e
  
