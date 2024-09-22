@@ -35,9 +35,6 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/oracle%20cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
-
-#
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onehowon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onehowon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -54,6 +51,10 @@
 
 ## ESTSoft Backend BootCamp  
 **Duration**: August 2023 - December 2023
+
+# Paper
+### Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)
+**Duration**: June 2024 - Febeurary 2025
 
 ## Languages 📚
 
