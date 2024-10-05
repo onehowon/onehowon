@@ -48,7 +48,7 @@ Duration: March 2022 - August 2023
 ### ESTSoft Backend BootCamp  
 Duration: August 2023 - December 2023
 
-### Participation and Awards in the Army Cybersecurity Competition (3rd)
+### Republic Of Korea Army(ROKA) Cybersecurity Competition (3rd)
 
 ### Jogging Course Recommendation And Matching App - DashMate(Excellence Award)
 
