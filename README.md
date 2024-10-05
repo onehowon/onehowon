@@ -9,10 +9,6 @@
 
 ## Elementary Web Developer
 * Hi there 👋
- 
-## Interest
-* Baseball
-* Trading
 
 <div align=center>
  
