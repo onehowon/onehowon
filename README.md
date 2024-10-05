@@ -54,13 +54,15 @@ Duration: August 2023 - December 2023
 
 ### Participation and Awards in the Army Cybersecurity Competition (3rd)
 
+### Jogging Course Recommendation And Matching App - DashMate(Excellence Award)
+
 # 📖 Paper
 Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
 Duration: June 2024 - February 2025
 
 
 # ⌨️ Projects
-### 2020.11 ~ 2020.12: Jogging Course Recommendation And Matching App(DashMate)
+
 ### 2024.03 ~ 2024.09: Marketing Funnel Analysis: Approach Using First-Party Cookie Data
 ### 2024.03 ~ 2024.09: Startup Investment Prediction Model using Machine Learning
 ### 2024.06 ~ 2024.10: Drive Course Integration App (Drivel) Platform
