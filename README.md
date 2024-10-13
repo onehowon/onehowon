@@ -64,6 +64,7 @@ Duration: June 2024 - February 2025
 ### 2024.06 ~ 2024.10: Drive Course Integration App (Drivel) Platform
 ### 2024.09 ~ : Website And Tech-Blog for the 'B-cube'
 ### 2024.07 ~ : Application Platform for Enhancing the Walking School Bus Service
+### 2024.09 ~ : Deepfake Prevention Service Utilizing Noise and Watermarking Techniques Based on Adversarial Attacks
 
 
 
