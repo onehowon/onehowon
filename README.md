@@ -8,7 +8,7 @@
 <div align=left>
 
 ## Elementary Web Developer
-* Hi there 👋
+* Hi there  👋
 
 <div align=center>
  
