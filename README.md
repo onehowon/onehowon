@@ -54,6 +54,8 @@ Duration: August 2023 - December 2023
 
 ### Tourism Data Utilization and Development Competition - Drivel(Excellence Award)
 
+### Shinhan Big Data Hackathon: "Family Gathering Investment Service"(Minister of Education Award, Grand Prize)
+
 # 📖 Paper
 Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
 Duration: June 2024 - February 2025
@@ -67,7 +69,7 @@ Duration: June 2024 - February 2025
 ### 2024.09 ~ 2024.11 : Website And Tech-Blog for the 'B-cube'
 ### 2024.07 ~ : 2024.12 Application Platform for Enhancing the Walking School Bus Service
 ### 2024.09 ~ : 2024.12 Deepfake Prevention Service Utilizing Noise and Watermarking Techniques Based on Adversarial Attacks
-
+### 2024.10 ~ : 2024.11 Shinhan Big Data Hackathon: "Family Gathering Investment Service"
 
 
 ## 📚 Languages 
