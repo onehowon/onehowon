@@ -72,6 +72,7 @@ Duration: June 2024 - February 2025
 ### 2024.07 ~ : 2024.12 Application Platform for Enhancing the Walking School Bus Service
 ### 2024.09 ~ : 2024.12 Deepfake Prevention Service Utilizing Noise and Landmarking Techniques Based on Adversarial Attacks(PhotoGuardy)
 ### 2024.10 ~ : 2024.11 Shinhan Big Data Hackathon: "Family Gathering Investment Service"
+### 2024.12 ~ On-Device Nail Art Comprehensive Platform
 
 
 ## 📚 Languages 
