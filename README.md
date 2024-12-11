@@ -56,6 +56,8 @@ Duration: August 2023 - December 2023
 
 ### Shinhan Big Data Hackathon: "Family Gathering Investment Service"(Minister of Education Award, Grand Prize)
 
+### Business Intelligence Hackathon (Grand Prize)
+
 # 📖 Paper
 Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
 Duration: June 2024 - February 2025
