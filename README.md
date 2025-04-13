@@ -7,8 +7,8 @@
   
 <div align=left>
 
-## Elementary Web Developer
-* Hi there  👋
+## BE Developer
+* Tralalero Tralala
 
 <div align=center>
  
