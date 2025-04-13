@@ -81,5 +81,4 @@ Duration: June 2024 - February 2025
 
 ## 💫 m e
  
-[![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/onehowon.zip/?hl=ko)](https://www.instagram.com/onehowon.zip/?hl=ko)
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{onehowon})
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{onehowon}?theme=dark&post=3)
