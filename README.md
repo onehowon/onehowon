@@ -45,18 +45,17 @@ Duration: March 2022 - August 2023
 - Prevented and defended against unauthorized cyber attacks, managed servers, and implemented IDS and IPS systems
 - Managed firewalls, threat detection, network segmentation, and security information and event management (SIEM)
 
-### ESTSoft Backend BootCamp  
-Duration: August 2023 - December 2023
+#### Republic Of Korea Army(ROKA) Cybersecurity Competition (3rd)
 
-### Republic Of Korea Army(ROKA) Cybersecurity Competition (3rd)
+#### Jogging Course Recommendation And Matching App - DashMate(Excellence Award)
 
-### Jogging Course Recommendation And Matching App - DashMate(Excellence Award)
+#### Tourism Data Utilization and Development Competition - Drivel(Excellence Award)
 
-### Tourism Data Utilization and Development Competition - Drivel(Excellence Award)
+#### Shinhan Big Data Hackathon: "Family Gathering Investment Service"(Minister of Education Award, Grand Prize)
 
-### Shinhan Big Data Hackathon: "Family Gathering Investment Service"(Minister of Education Award, Grand Prize)
+#### Business Intelligence Hackathon (Grand Prize)
 
-### Business Intelligence Hackathon (Grand Prize)
+#### Capston Design Contest (Participation Prize)
 
 # 📖 Paper
 Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
@@ -65,14 +64,15 @@ Duration: June 2024 - February 2025
 
 # ⌨️ Projects
 
-### 2024.03 ~ 2024.09: Marketing Funnel Analysis: Approach Using First-Party Cookie Data
-### 2024.03 ~ 2024.09: Startup Investment Prediction Model using Machine Learning
-### 2024.06 ~ 2024.10: Drive Course Integration App (Drivel) Platform
-### 2024.09 ~ 2024.11 : Website And Tech-Blog for the 'B-cube'
-### 2024.07 ~ : 2024.12 Application Platform for Enhancing the Walking School Bus Service
-### 2024.09 ~ : 2024.12 Deepfake Prevention Service Utilizing Noise and Landmarking Techniques Based on Adversarial Attacks(PhotoGuardy)
-### 2024.10 ~ : 2024.11 Shinhan Big Data Hackathon: "Family Gathering Investment Service"
-### 2024.12 ~ On-Device Nail Art Comprehensive Platform
+#### 2024.03 ~ 2024.09: Marketing Funnel Analysis: Approach Using First-Party Cookie Data
+#### 2024.03 ~ 2024.09: Startup Investment Prediction Model using Machine Learning
+#### 2024.06 ~ 2024.10: Drive Course Integration App (Drivel) Platform
+#### 2024.09 ~ 2024.11 : Website And Tech-Blog for the 'B-cube'
+#### 2024.07 ~ : 2024.12 Application Platform for Enhancing the Walking School Bus Service
+#### 2024.09 ~ : 2024.12 Deepfake Prevention Service Utilizing Noise and Landmarking Techniques Based on Adversarial Attacks(PhotoGuardy)
+#### 2024.10 ~ : 2024.11 Shinhan Big Data Hackathon: "Family Gathering Investment Service"
+#### 2024.12 ~ : On-Device Nail Art Comprehensive Platform
+#### 2025.03 ~ : Improving the Credit Process with STT
 
 
 ## 📚 Languages 
@@ -82,3 +82,4 @@ Duration: June 2024 - February 2025
 ## 💫 m e
  
 [![Instagram Badge](https://img.shields.io/badge/instagram-FC60A8?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/onehowon.zip/?hl=ko)](https://www.instagram.com/onehowon.zip/?hl=ko)
+[![Velog Badge](https://velog.io/@onehowon/posts)
