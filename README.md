@@ -71,13 +71,13 @@
       <br>Spring
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mariadb" width="48" height="48" alt="MariaDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" />
       <br>MariaDB
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
       <br>Oracle
     </td>
     <td align="center" width="96">
