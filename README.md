@@ -81,4 +81,4 @@ Duration: June 2024 - February 2025
 
 ## 💫 m e
  
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{onehowon}?theme=dark&post=3)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/onehowon?theme=dark&post=3)
