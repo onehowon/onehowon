@@ -137,7 +137,3 @@ Duration: June 2024 - February 2025
 ## 📚 Languages 
 
 <p align="center"> 🇰🇷 🇨🇳 🇺🇸 🇯🇵 </p>
-
-## 💫 m e
- 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/onehowon?theme=dark&post=3)
