@@ -8,7 +8,6 @@
 <div align=left>
 
 ## BE Developer
-* Tralalero Tralala
 
 <div align=center>
  
