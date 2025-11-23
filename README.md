@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
   
-![thumper-sliding-on-ice-wgct6df989sucj5d]([https://user-images.githubusercontent.com/81984723/186635385-3a2968f1-f464-432f-8ea9-994d32db3e6f.gif](https://github.com/user-attachments/assets/84ca8411-6068-4018-a05b-228a41b29736))
+![제리인사 GIF](https://media.tenor.com/FwP9Vq8w8e0AAAAj/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91-%EC%9D%B8%EC%82%AC.gif)
 
   
 <div align=left>
