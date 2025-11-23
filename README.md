@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=onehowon&fontSize=70&animation=twinkling)
   
-![제리인사 GIF](https://media.tenor.com/FwP9Vq8w8e0AAAAj/%EC%A0%9C%EB%A6%AC%EC%9D%B8%EC%82%AC-%EC%A1%B4%EC%A4%91-%EC%9D%B8%EC%82%AC.gif)
+![i015156871691](https://github.com/user-attachments/assets/a3ebfc82-ff04-48ad-a4a0-6ab31ec3cf81)
 
   
 <div align=left>
