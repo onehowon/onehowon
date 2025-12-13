@@ -7,8 +7,6 @@
   
 <div align=left>
 
-## BE Developer
-
 <div align=center>
  
 # 💻 My favorite techstacks
