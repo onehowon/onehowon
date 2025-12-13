@@ -119,11 +119,11 @@ Duration: March 2022 - August 2023
 
 
 # 📖 Paper
-Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
-Duration: June 2024 - February 2025
+- Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
+- Duration: June 2024 - February 2025
 
-Limitations of AI Counseling Services for Older Adults and MCP-Based Approaches to Enhancing Reliability
-Duration: Sep 2025 - Dec 2025
+- Limitations of AI Counseling Services for Older Adults and MCP-Based Approaches to Enhancing Reliability
+- Duration: Sep 2025 - Dec 2025
 
 
 # ⌨️ Projects
