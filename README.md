@@ -115,9 +115,15 @@ Duration: March 2022 - August 2023
 
 #### Capston Design Contest (Participation Prize)
 
+#### University Student Idea Competition, Fall Conference of the Korea Electronic Transactions Society(Encouragement Award)
+
+
 # 📖 Paper
 Cybersecurity Resilience of Small and Medium-Sized Enterprises and Socioeconomic System Dynamics (S-2024-A0403-00216)  
 Duration: June 2024 - February 2025
+
+Limitations of AI Counseling Services for Older Adults and MCP-Based Approaches to Enhancing Reliability
+Duration: Sep 2025 - Dec 2025
 
 
 # ⌨️ Projects
@@ -131,7 +137,9 @@ Duration: June 2024 - February 2025
 #### 2024.10 ~ : 2024.11 Shinhan Big Data Hackathon: "Family Gathering Investment Service"
 #### 2024.12 ~ 2025.06 : On-Device Nail Art Comprehensive Platform(Nailian)
 #### 2025.03 ~ 2025.06 : Improving the Credit Process with STT
-#### 2025.05 ~ : TableOrder Web App for School Pub 
+#### 2025.05 ~ 2025.05 : TableOrder Web App for School Pub 
+#### 2025.08 ~ 2025.12 : A Visual Location Exploration Platform Based on Personal Place Data
+
 
 
 ## 📚 Languages 
